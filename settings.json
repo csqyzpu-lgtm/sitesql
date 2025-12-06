@@ -1,0 +1,7 @@
+{
+  "phpserver.browser": "chrome",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.proxy": {
+    "enable": true
+  }
+}
